@@ -1,0 +1,13 @@
+{
+  "name": "SimpleNodeTest",
+  "version": "0.0.1",
+  "description":"Hapi Hello World",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "hapi":"latest"
+  }
+}
+
+
