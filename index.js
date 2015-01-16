@@ -13,7 +13,7 @@ server.route({
 
 server.route({
     method: 'GET',
-    path: '/mu-72fcecc7-1bef7e08-f1954f58-f7bdb21c',
+    path: '/mu-1707e390-267b53c8-200dde69-02a711a8',
     handler: function (request, reply) {
         reply('42');
     }
